@@ -5,4 +5,7 @@
 Website: https://vineet-jakhar.github.io/Advanced-Calculator/
 <br><br><br>
 
-*Bug- Can't delete operator once initialized!
+Bugs<br>
+- Can't delete operator once initialized <br>
+-  <s>Zooms when double-tapped on a button in mobile</s> --- Fixed!<br>
+- <s>Not responsive</s> --- Fixed!<br>
