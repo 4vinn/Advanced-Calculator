@@ -6,6 +6,8 @@ Website: https://vineet-jakhar.github.io/Advanced-Calculator/
 <br><br><br>
 
 Bugs<br>
+- modulo operator not workin<br>
 - Can't delete operator once initialized <br>
 -  <s>Zooms when double-tapped on a button in mobile</s> --- Fixed!<br>
+
 
