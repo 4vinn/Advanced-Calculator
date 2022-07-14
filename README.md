@@ -9,5 +9,5 @@ Bugs<br>
 - modulo operator not workin<br>
 - Can't delete operator once initialized <br>
 -  <s>Zooms when double-tapped on a button in mobile</s> --- Fixed!<br>
-
+- provide peronal webs link
 
