@@ -2,7 +2,10 @@
 
 <h4>Neumorphic | HTML | CSS | Vanilla JavaScript</h4>
 
-Website: https://vineet-jakhar.github.io/Advanced-Calculator/
+Website:-<br>
+- Netlify:-https://calculator2-vj.netlify.app/ <br>
+
+- Github:-https://vineet-jakhar.github.io/Advanced-Calculator/
 <br><br><br>
 
 Bugs<br>
