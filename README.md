@@ -2,15 +2,15 @@
 
 <h4>Neumorphic | HTML | CSS | Vanilla JavaScript</h4>
 
-Website:-<br>
-- Netlify:-https://calculator2-vj.netlify.app/ <br>
+Hosted on:-<br>
+- Netlify:-https://4vinn-cal2.netlify.app/ <br>
 
-- Github:-https://vineet-jakhar.github.io/Advanced-Calculator/
+- Github:-https://4vinn.github.io/Advanced-Calculator/
 <br><br><br>
 
 Bugs<br>
-- modulo operator not workin<br>
-- Can't delete operator once initialized <br>
--  <s>Zooms when double-tapped on a button in mobile</s> --- Fixed!<br>
+- modulo operator unfunctional
+- Can't delete operator once initialized 
+-  <s>Zooms when double-tapped on a button in mobile</s> --- Fixed!
 - provide peronal webs link
 
